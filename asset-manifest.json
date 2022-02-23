@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b8bbe61.css",
+    "main.js": "/static/js/main.e98699fa.js",
+    "static/js/787.f5b46c60.chunk.js": "/static/js/787.f5b46c60.chunk.js",
+    "static/media/bg.jpeg": "/static/media/bg.0e92922bdf27ac712f2c.jpeg",
+    "static/media/avatar.jpg": "/static/media/avatar.4d855144b4488c6175e4.jpg",
+    "static/media/vietnam.jpg": "/static/media/vietnam.67cb00ed8d07ddc5eb5f.jpg",
+    "static/media/london.jpg": "/static/media/london.8e577e1fd024ad9b2b44.jpg",
+    "static/media/russale.jpg": "/static/media/russale.81691966feac2feb68db.jpg",
+    "static/media/hiking.jpg": "/static/media/hiking.43f5dcaf5fc9fe07996f.jpg",
+    "static/media/water.jpg": "/static/media/water.143918b9ce0e40e5c5fe.jpg",
+    "static/media/beach.jpg": "/static/media/beach.c7451b25db74b842f6e0.jpg",
+    "static/media/city.jpg": "/static/media/city.64ec83e826dd2efd5e32.jpg",
+    "static/media/italia.jpg": "/static/media/italia.1abba7601f9615072a1a.jpg",
+    "static/media/china.jpg": "/static/media/china.0cbef7609110a91900b1.jpg",
+    "static/media/japan.jpg": "/static/media/japan.2680d817a83400f7d77c.jpg",
+    "static/media/logo.png": "/static/media/logo.dd95989de430bb5a0d17.png",
+    "static/media/usa.svg": "/static/media/usa.33c8035805d0139924dd472c4d5b3adf.svg",
+    "index.html": "/index.html",
+    "main.9b8bbe61.css.map": "/static/css/main.9b8bbe61.css.map",
+    "main.e98699fa.js.map": "/static/js/main.e98699fa.js.map",
+    "787.f5b46c60.chunk.js.map": "/static/js/787.f5b46c60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8bbe61.css",
+    "static/js/main.e98699fa.js"
+  ]
+}
